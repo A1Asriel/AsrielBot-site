@@ -13,7 +13,7 @@
   border-width: 1px;
   border-radius: 0.3rem;
 
-  + .btn-inactive, .btn+.btn-inactive {
+  + .btn-inactive, + .btn {
     margin-left: 1rem;
   }
 
@@ -32,14 +32,15 @@
     padding: 0.75rem;
     font-size: 0.9rem;
 
-    + .btn-inactive {
+    + .btn-inactive, + .btn {
       margin-top: 1rem;
       margin-left: 0;
     }
+  }
+}
 
-    + .btn-inactive, .btn+.btn-inactive {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
+.btn {
+  + .btn-inactive, + .btn {
+    margin-left: 1rem;
   }
 }
