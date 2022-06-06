@@ -1,3 +1,7 @@
+# The site is work in progress. The links are not configured and the text may contain incorrect information.
+
+---
+
 # AsrielBot
 
 AsrielBot is a friendly Discord bot which is mainly designed to solve ambiguity during the role-playing process. Although, it also can be used as a general purpose (moderation, custom responses, AFK statuses, etc.) bot.
