@@ -1,10 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 $header-bg-color: #45c77f !default;
 $header-bg-color-secondary: #acbd4e !default;
+
+@import "{{ site.theme }}";
 
 .btn-inactive {
   display: inline-block;
