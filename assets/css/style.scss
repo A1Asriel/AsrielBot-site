@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+$header-bg-color: #45c77f !default;
+$header-bg-color-secondary: #acbd4e !default;
+
 .btn-inactive {
   display: inline-block;
   margin-bottom: 1rem;
