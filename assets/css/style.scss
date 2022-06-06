@@ -46,4 +46,16 @@ $header-bg-color-secondary: #acbd4e !default;
   + .btn-inactive, + .btn {
     margin-left: 1rem;
   }
+  
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn-inactive, + .btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
 }
