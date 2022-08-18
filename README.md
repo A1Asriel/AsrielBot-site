@@ -38,7 +38,7 @@ The bot can speak English, Russian and German (maintained by Zero, slightly outd
 We are open for the new contributors who are willing to bring their language into our project!
 
 
-## Anastellos Engine
+## Powered by [Anastellos Engine](https://github.com/A1Asriel/anastellos)
 
 Formerly the AsrielBot's soul, now is used as a modular universal Discord bot engine. It provides easy methods to manage the internals of any bot, as well as some predefined basic commands.
 
@@ -55,4 +55,4 @@ Currently, it's hosted on the developer's PC, so it has to be shut down sometime
 
 ### I want to translate your bot!
 
-Feel free to contact me (`A1Asriel#8203`) at the [support server]().
+Feel free to contact me (`A1Asriel#8203`) at the [support server](https://discord.gg/wVFPftk4vf).
