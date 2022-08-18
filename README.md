@@ -18,7 +18,7 @@ Currently, it is in beta development stage, so there will be more features and i
 
 The bot can help players and game masters to decide whether a certain action was successful or not. *Try* it yourself by using `a!try` or `a!try3` command to determine if your character succeed in lifting up that heavy branch!
 
-In the complex and huge RP servers it is often hard to trace the movements of the characters. They go back and forth, from location to location... But the `a!travel` command brings the players an easy and convenient way to mark that their characters were relocated to another channel, and the spectators will be able to follow them in a single click.
+Normally, it is hard to trace the movements of characters in complex and huge RP servers. They go back and forth, from location to location... But the `a!travel` command brings the players an easy and convenient way to mark that their characters were relocated to another channel, and the spectators will be able to follow them in a single click.
 
 ### Messages relaying
 
