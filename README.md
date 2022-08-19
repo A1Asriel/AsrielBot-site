@@ -30,7 +30,7 @@ With this bot, you can set up a log channel which will trace every deleted or ed
 
 ### User statuses
 
-Every member of a server can mark themselves as AFK, busy or even sleeping without typing any commands! You just have to put `!afk`/`!away`, `!busy`/`!dnd` or `!sleep` into your status (it doesn't matter where exactly you are putting it). After that, every person who tries to ping you gets notified about your current unavailability.
+Every member of a server can mark themselves as AFK, busy or even sleeping without typing any commands! You just have to put `[afk]`/`[away]`, `[busy]`/`[dnd]` or `[sleep]` into your status (it doesn't matter where exactly you are putting it). After that, every person who tries to ping you gets notified about your current unavailability.
 
 ### Multilingual
 
