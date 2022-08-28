@@ -5,12 +5,10 @@ AsrielBot Legacy is a friendly Discord bot, powered by our own Anastellos Engine
 Currently, it is in beta development stage, so there will be more features and improvements over time!  
 *It is planned to open the source code before we get to the full release.*
 
-
 ## Quick start
 
 1. Invite the bot using the link above. It already has the recommended permissions enabled for the proper operation.
 2. Send `a!help` to see the list of all available commands.
-
 
 ## Features
 
@@ -37,11 +35,9 @@ Every member of a server can mark themselves as AFK, busy or even sleeping witho
 The bot can speak English, Russian and German (maintained by Zero, slightly outdated as of August 18th, 2022). The admins should use `a!settings lang <language code>` to change it.  
 We are open for the new contributors who are willing to bring their language into our project!
 
-
 ## Powered by [Anastellos Engine](https://github.com/A1Asriel/anastellos)
 
 Formerly the AsrielBot's soul, now is used as a modular universal Discord bot engine. It provides easy methods to manage the internals of any bot, as well as some predefined basic commands.
-
 
 ## FAQ
 
