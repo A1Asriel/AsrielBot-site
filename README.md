@@ -8,7 +8,8 @@ Currently, it is in beta development stage, so there will be more features and i
 ## Quick start
 
 1. Invite the bot using the link above. It already has the recommended permissions enabled for the proper operation.
-2. Send `a!help` to see the list of all available commands.
+2. Send `a!privacy` to show the Privacy Policy. To use the bot, you have to agree to it.
+3. Send `a!help` to see the list of all available commands.
 
 ## Features
 
